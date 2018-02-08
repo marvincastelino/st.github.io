@@ -1,6 +1,10 @@
+.btn{
+    display: block;        
+    margin-bottom:10px;   
+}
 .timeline {
     list-style: none;
-    padding: 20px 0 20px;
+     padding: 20px 0 20px; 
     position: relative;
 }
 
@@ -9,7 +13,7 @@
         bottom: 0;
         position: absolute;
         content: " ";
-        width: 3px;
+        /* width: 3px; */
         background-color: #eeeeee;
          /* left: 50%;  */
         margin-left: -1.5px;
